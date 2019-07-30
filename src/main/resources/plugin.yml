@@ -1,0 +1,6 @@
+name: Transformers
+version: ${project.version}
+main: me.elie.transformers.Transformers
+prefix: Transformers
+authors: [Compilable]
+description: A java plugin recreation of SethBling's transformers.,
